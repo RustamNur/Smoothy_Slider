@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Smoothy_Slider/static/css/main.cd12a767.css",
+    "main.js": "/Smoothy_Slider/static/js/main.4bf7a17d.js",
+    "static/js/453.5a093248.chunk.js": "/Smoothy_Slider/static/js/453.5a093248.chunk.js",
+    "static/media/cairo.jpg": "/Smoothy_Slider/static/media/cairo.21bbb5bd74a218ad1bc9.jpg",
+    "static/media/algir.jpg": "/Smoothy_Slider/static/media/algir.cfb8f74bd76a48c3a52a.jpg",
+    "static/media/california.jpg": "/Smoothy_Slider/static/media/california.c3b4793a01adc282cee0.jpg",
+    "static/media/ist.jpg": "/Smoothy_Slider/static/media/ist.7cb464e5546c1f3fae6d.jpg",
+    "static/media/dubai.webp": "/Smoothy_Slider/static/media/dubai.4a67347669dd3c8673ae.webp",
+    "index.html": "/Smoothy_Slider/index.html",
+    "main.cd12a767.css.map": "/Smoothy_Slider/static/css/main.cd12a767.css.map",
+    "main.4bf7a17d.js.map": "/Smoothy_Slider/static/js/main.4bf7a17d.js.map",
+    "453.5a093248.chunk.js.map": "/Smoothy_Slider/static/js/453.5a093248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd12a767.css",
+    "static/js/main.4bf7a17d.js"
+  ]
+}
